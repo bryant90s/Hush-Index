@@ -1,54 +1,62 @@
-HUSH INDEX
+Core Features
+Unified Marketing
 
-A concept civic tech platform that maps real time urban sound data to help renters, planners, and developers make informed location decisions.
+Launch SMS, email, and social campaigns from a single dashboard.
 
+Smart Loyalty
 
-Overview
+Automatically reward repeat guests and segment high-value customers.
 
+Performance Analytics
 
-HUSH INDEX visualizes neighborhood noise levels using time-of-day analysis and comparative scoring models.
+Track revenue lift, repeat rate growth, and marketing ROI in real time.
 
-This product was designed around:
+Automated Retention
 
-• Data-driven urban storytelling  
-• Time-based comparative scoring models  
-• Civic-first interface systems  
-• Editorial dark-mode hierarchy  
+Trigger win-back campaigns based on visit patterns and customer behavior.
 
+Review Management
 
-Dark mode editorial styling
+Monitor and respond to Google, Yelp, and other review platforms in one place.
 
+Multi-Location Sync
+
+Deploy centralized campaigns while allowing per-location customization.
+
+Impact (Concept Metrics)
+
+38% average repeat rate increase
+
+$127K average annual revenue lift
+
+5.2x average marketing ROI
+
+12 hours saved per week
+
+Pricing Model (Concept)
+
+Starter — $299/mo
+Growth — $699/mo
+Enterprise — Custom
+
+All plans include a 14-day free trial.
 
 Tech Stack
 
-
 Vite
-
 
 TypeScript
 
+Tailwind CSS
 
-Tailwind
+Project Context
 
+This is a SaaS marketing site concept exploring:
 
-Chart visualization components
+Conversion-driven landing page structure
 
+ROI-focused messaging hierarchy
 
-Key Features
+Multi-location SaaS positioning
 
-
-Time of day noise analysis chart
-
-
-Neighborhood comparison visualization
-
-
-Horizontal timeline module
-
-
-Responsive layout system
-
-
-Purpose
-
-This is a front-end exploration focused on visual hierarchy, typographic tension, and data-driven storytelling.
+Clear pricing and tier framing
