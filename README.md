@@ -8,20 +8,15 @@ Overview
 
 HUSH INDEX visualizes neighborhood noise levels using time-of-day analysis and comparative scoring models.
 
+This product explores:
 
-This project explores:
-
-
-Data visualization design
-
-
-Map based UX patterns
+• Data-driven urban storytelling  
+• Time-based comparative scoring models  
+• Civic-first interface systems  
+• Editorial dark-mode hierarchy  
 
 
-Civic-oriented UI systems
-
-
-Dark-mode editorial styling
+Dark mode editorial styling
 
 
 Tech Stack
