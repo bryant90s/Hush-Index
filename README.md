@@ -1,6 +1,6 @@
 HUSH INDEX
 
-A concept civic-tech platform that maps real-time urban sound data to help renters, planners, and developers make informed location decisions.
+A concept civic tech platform that maps real time urban sound data to help renters, planners, and developers make informed location decisions.
 
 Overview
 
@@ -28,7 +28,7 @@ Chart visualization components
 
 Key Features
 
-Time-of-day noise analysis chart
+Time of day noise analysis chart
 
 Neighborhood comparison visualization
 
